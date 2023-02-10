@@ -1,0 +1,6 @@
+tf/.terraform
+tf/*.tfstate
+tf/*.tfstate.backup
+tf/secret.tfvars
+tf/.ssh
+*.pdf
